@@ -1,2 +1,0 @@
-# Capstone
-# Editing the file
